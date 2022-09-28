@@ -51,6 +51,7 @@
     "cross-env": "^7.0.2",
     "delay": "^4.3.0",
     "dirty-chai": "^2.0.1",
+
     "electron-notarize": "1.0.0",
     "electron-notarize-dmg": "1.0.0",
     "got": "^11.6.2",
@@ -74,7 +75,7 @@
     "countly-sdk-nodejs": "^19.8.0",
     "electron-serve": "^1.0.0",
     "electron-store": "^6.0.0",
-    "electron-updater": "4.3.5",
+    "electron-updater": "5.2.1",
     "fix-path": "^3.0.0",
     "fs-extra": "^9.0.1",
     "go-ipfs": "0.14.0",
